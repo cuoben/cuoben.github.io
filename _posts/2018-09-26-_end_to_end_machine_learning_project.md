@@ -5,7 +5,7 @@ description: "基于scikit-learn,keras,tensorflow"
 categories: [机器学习,test]
 tags: [机器学习, 深度学习]
 redirect_from:
-  - /2020/12/06/
+  - /2018/09/26/
 ---
 **Chapter 2 – End-to-end Machine Learning project**
 
