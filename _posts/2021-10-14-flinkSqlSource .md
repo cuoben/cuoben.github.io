@@ -66,7 +66,7 @@ public class KafkaSourceDemo {
 
 下图为官方原图介绍如何从元数据转换为运行时对象的处理过程。
 
-![img](https://upload-images.jianshu.io/upload_images/9654612-8853b3861845fcc6.png)
+![](https://raw.githubusercontent.com/cuoben/pic_repository/main/0319a8d8067d869c16985fab8b0aba8.png)
 
 - Metadata
 
